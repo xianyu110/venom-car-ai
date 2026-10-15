@@ -2,6 +2,12 @@
 
 <p align="center">
   <a href="https://venomcarai.cc">
+    <img src="assets/logo.png" alt="Venom Car AI logo" width="128" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://venomcarai.cc">
     <img src="assets/hero-poster.jpg" alt="Venom Car AI" width="420" />
   </a>
 </p>
